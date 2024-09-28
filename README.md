@@ -18,7 +18,7 @@ Note that this build is stable on python 3.9.18. Other versions of python may re
 After setup, run `python main.py`. This will prompt you to draw an image and then you can sit back and enjoy. To monitor the frame-by-frame progress, head to the frames folder. At the end, watch video.mp4!
 
 # Example Run
-The following showcases an example run where a 1000x800px image is drawn by the user and passed into the neural network as input. An example frame is shown during the training process. Finally, the video timelapse of 20 epochs worth of training is shown.
+The following showcases an example run where a 1000x800px image is drawn by the user and passed into the neural network as input. An example frame is shown during the training process. Finally, the video timelapse of 20 epochs worth of training [200 frames] is shown.
 ![input](https://github.com/user-attachments/assets/b321b6ec-489b-40c9-af02-f287bda727cd)
 ![download](https://github.com/user-attachments/assets/762e7781-7559-4053-a09a-4eca89469c4c)
 
