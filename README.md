@@ -1,8 +1,8 @@
 # Custom Drawing Neural Network
 
-This is a very simple project that allows you to train neural networks on any image you decide to draw. The coordinates in the image correspond to some pixel intensity, this is the target to be learned. The neural network uses skip connections to perserve the structure of the image as well as the size preservation in aim to reproduce the image as accurately as it can.
+This is a very simple project that allows you to train neural networks on any image you decide to draw. Each coordinate in the image corresponds to some pixel intensity, this is the target to be learned. The neural network uses skip connections to perserve the structure of the image as well as size preservation in aim to reproduce the image as accurately as it can.
 
-Captures of the learned image are taken sequentially and once all epochs finish, the user gets an mp4 file which shows a time lapse of the learning of the image.
+Captures of the learned image are taken sequentially and once all epochs finish, the user gets a .mp4 file which shows a timelapse of the learning of the image.
 
 # Requirements
 - python3
