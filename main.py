@@ -58,9 +58,9 @@ hidden_size = 300
 num_hidden_layers = 30
 batch_size = 8000
 lr = 0.001
-num_epochs = 3
+num_epochs = 40
 proj_name = 'helloworld_skipconn'
-save_every_n_iterations = 5
+save_every_n_iterations = 9
 scheduler_step = 3
 
 # Create the dataset and data loader
