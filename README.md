@@ -21,12 +21,7 @@ After setup, run `python main.py`. This will prompt you to draw an image and the
 The following showcases an example run where a 1000x800px image is drawn by the user and passed into the neural network as input. An example frame is shown during the training process. Finally, the video timelapse of 20 epochs worth of training is shown.
 ![input](https://github.com/user-attachments/assets/b321b6ec-489b-40c9-af02-f287bda727cd)
 ![download](https://github.com/user-attachments/assets/762e7781-7559-4053-a09a-4eca89469c4c)
-
-
-https://github.com/user-attachments/assets/1890d5ef-a39e-4809-b00e-615c784c930c
-
-
-
+https://github.com/user-attachments/assets/40c77abb-d963-4d2b-bc74-6e9f0138569b
 
 # Credits
 This code is modified and forked from MaxRobinsonTheGreat. For more viewing material, watch his spectacular video: https://www.youtube.com/watch?v=TkwXa7Cvfr8
