@@ -27,7 +27,7 @@ The following showcases an example run where a 1000x800px image is drawn by the 
 https://github.com/user-attachments/assets/6e0400fd-bca2-457c-b3b7-77b9b5ffecc2
 
 
-# Example Run [1]
+# Example Run [2]
 ![input_kitty](https://github.com/user-attachments/assets/dc5a34bc-7af7-41cb-b0b5-2754edae82bb)
 ![learning_kitty](https://github.com/user-attachments/assets/a9a54c8d-5c87-4bd4-b4d1-5a6d29644360)
 
